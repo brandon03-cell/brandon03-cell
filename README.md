@@ -20,8 +20,7 @@ Soy un apasionado estudiante de **Desarrollo de Aplicaciones Web (DAW)** en **CE
 
 - 🚀 **Pasión:** Desarrollo Full Stack.
 - 🏫 **Formación:** DAW en CEI (Sevilla).
-- 🐧 **Entorno:** Linux Fedora + KDE (Gusto Mac/Ubuntu).
-
+- 🐧 **Entorno:** Linux Fedora + KDE PLASMA.
 ---
 
 ## 🛠️ Mi Caja de Herramientas Tecnológicas
@@ -50,7 +49,7 @@ Soy un apasionado estudiante de **Desarrollo de Aplicaciones Web (DAW)** en **CE
 
 ---
 
-## 📊 Estado del Sistema (Alineación Estilo Mac)
+## 📊 Estado del Sistema
 
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brandon03-cell&show_icons=true&theme=radical&border_color=E95420&icon_color=E95420&title_color=E95420&hide_border=false" alt="Estadísticas de Brandon" />
@@ -60,7 +59,7 @@ Soy un apasionado estudiante de **Desarrollo de Aplicaciones Web (DAW)** en **CE
 
 ---
 
-## 📫 Conexiones Profesionales
+## 📫 Conexiones
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brandon-david-c-47b719233" target="_blank">
