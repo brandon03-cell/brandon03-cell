@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=77216F&bgColor=1E1E2E&height=280&section=header&text=Brandon%20David&fontSize=85&fontColor=ffffff&animation=wave&desc=Full%20Stack%20Developer%20%7C%20DAW%20%40%20CEI%20Sevilla%20%7C%20Linux%20Artist&descAlign=center&descSize=22" alt="Animated Waving Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=77216F&bgColor=1E1E2E&height=240&section=header&text=Brandon%20David&fontSize=92&fontColor=ffffff&animation=wave" alt="Brandon David Banner" />
+</p>
+
+<p align="center" style="margin-top: -20px; margin-bottom: 25px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=f48e42&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%7C+DAW+%40+CEI+Sevilla+%7C+Linux+Artist" alt="Animated Subtitle" />
 </p>
 
 <p align="center">
