@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&bgColor=77216F&height=180&section=header&text=Brandon%20David&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Brandon David Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=77216F&bgColor=77216F&height=180&section=header&text=Brandon%20David&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Brandon David Banner" />
 </p>
 
 <p align="center">
@@ -110,5 +110,5 @@ Herramienta Python para automatizar tareas repetitivas del flujo de trabajo de d
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&bgColor=77216F&height=80&section=footer&text=Turning%20coffee%20into%20code...&fontSize=30&fontColor=ffffff" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=77216F&bgColor=77216F&height=80&section=footer&text=Turning%20coffee%20into%20code...&fontSize=30&fontColor=ffffff" alt="Footer Banner" />
 </p>
