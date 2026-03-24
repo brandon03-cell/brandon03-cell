@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&bgColor=77216F&height=200&section=header&text=Brandon%20David&fontSize=85&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20DAW%20%40%20CEI%20Sevilla%20%7C%20Linux%20Artist&descAlign=center&descSize=22" alt="Brandon David Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=77216F&bgColor=77216F&height=200&section=header&text=Brandon%20David&fontSize=85&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20DAW%20%40%20CEI%20Sevilla%20%7C%20Linux%20Artist&descAlign=center&descSize=22" alt="Brandon David Banner" />
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@ Estas dos ideas guían mi forma de trabajar: disciplina constante para alcanzar 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&bgColor=77216F&height=110&section=footer&text=Turning%20coffee%20into%20code...%20and%20Linux%20into%20art&fontSize=38&fontColor=ffffff" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=77216F&bgColor=77216F&height=110&section=footer&text=Turning%20coffee%20into%20code...%20and%20Linux%20into%20art&fontSize=38&fontColor=ffffff" alt="Footer Banner" />
 </p>
 
 <p align="center">
