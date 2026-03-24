@@ -90,9 +90,17 @@ Herramienta Python para automatizar tareas repetitivas del flujo de trabajo de d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brandon03-cell&show_icons=true&theme=radical&border_color=E95420&icon_color=E95420&title_color=E95420" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon03-cell&layout=compact&theme=radical&border_color=77216F&title_color=77216F" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brandon03-cell&show_icons=true&theme=radical&border_color=77216F&icon_color=77216F&title_color=77216F&hide_border=false" alt="Estadísticas GitHub" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon03-cell&layout=compact&theme=radical&border_color=77216F&icon_color=77216F&title_color=77216F&hide_border=false" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=brandon03-cell&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%2C%20Y" alt="Racha de contribuciones" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=brandon03-cell&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trofeos de GitHub" />
 </p>
 
 ---
