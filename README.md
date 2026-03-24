@@ -104,7 +104,7 @@ Herramienta Python para automatizar tareas repetitivas del flujo de trabajo de d
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brandon03-cell&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trofeos de GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=brandon03-cell&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
