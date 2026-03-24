@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=77216F&bgColor=77216F&height=180&section=header&text=Brandon%20David&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Brandon David Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=77216F&bgColor=1E1E2E&height=220&section=header&text=Brandon%20David&fontSize=75&fontColor=ffffff&animation=wave&desc=Full%20Stack%20Developer%20%7C%20DAW%20%40%20CEI%20Sevilla%20%7C%20Linux%20Artist&descAlign=center&descSize=18" alt="Animated Waving Banner" />
 </p>
 
 <p align="center">
