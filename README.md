@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&bgColor=77216F&height=180&section=header&text=Brandon%20David&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Brandon David Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&bgColor=8A2BE2&height=180&section=header&text=Brandon%20David&fontSize=80&animation=fadeIn" alt="Brandon David Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f48e42&center=true&vCenter=true&width=500&lines=Full%20Stack%20Developer%20%7C%20DAW%20Student%20%7C%20CEI%20Sevilla;Loving%20Fedora%2043%20KDE%20%7C%20Linux%20Rhythms;Turning%20Ideas%20into%20Elegant%20Code;Personalizaci%C3%B3n%20%7C%20Est%C3%A9tica%20%7C%20Libertad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Full%20Stack%20Developer%20(in%20process);DAW%20Student%20in%20Sevilla;Personalizaci%C3%B3n%20%26%20Linux%20Rhythms" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brandon03-cell&label=Vistas%20del%20Perfil&color=77216F&style=flat-square" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=brandon03-cell&label=Vistas%20del%20Perfil&color=8A2BE2&style=flat-square" alt="Visitor Counter" />
 </p>
 
 ---
