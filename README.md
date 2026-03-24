@@ -16,7 +16,7 @@
 Soy un apasionado del desarrollo y la personalización de entornos. Actualmente estudio el **Grado Superior de DAW** en el centro **CEI de Sevilla**. Me encanta cuidar cada detalle visual, algo que traslado desde mi escritorio en **Fedora** hasta el código que escribo.
 
 - 🏫 **Centro:** CEI Sevilla (C. Conde Cifuentes).
-- 🐧 **OS:** Fedora 43 con KDE Plasma 6 (Estética Mac/Ubuntu).
+- 🐧 **OS:** Fedora 43 con KDE Plasma 6.
 - 🎯 **Foco actual:** Dominar el ecosistema Java y dar el salto profesional al Full Stack.
 
 ---
@@ -64,7 +64,7 @@ Soy un apasionado del desarrollo y la personalización de entornos. Actualmente 
 
 ---
 
-## 📫 Conectemos
+## 📫 Conexiones
 
 <div align="center">
 
