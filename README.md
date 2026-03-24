@@ -103,10 +103,6 @@ Herramienta Python para automatizar tareas repetitivas del flujo de trabajo de d
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=brandon03-cell&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%2C%20Y" alt="Racha de contribuciones" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brandon03-cell&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 📫 Contacto
