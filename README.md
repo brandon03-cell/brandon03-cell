@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&bgColor=77216F&height=200&section=header&text=Brandon%20David&fontSize=85&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20%7C%20Linux%20Artist%20%7C%20Pixel%20Poet&descAlign=center&descSize=22" alt="Brandon David Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&bgColor=77216F&height=200&section=header&text=Brandon%20David&fontSize=85&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20DAW%20%40%20CEI%20Sevilla%20%7C%20Linux%20Artist&descAlign=center&descSize=22" alt="Brandon David Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=f48e42&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%7C+DAW+Student+%40+CEI+Sevilla;Fedora+43+%E2%9D%A4%EF%B8%8F+KDE+Plasma+6+%7C+Linux+Rhythms;Turning+Ideas+into+Elegant+Code;Personalizaci%C3%B3n+%7C+Est%C3%A9tica+%7C+Libertad;Code+is+Art+%7C+Customization+is+Freedom" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1400&color=f48e42&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%7C+Estudiante+DAW+en+CEI+Sevilla;Fedora+43+%E2%9D%A4%EF%B8%8F+KDE+Plasma+6;Convirtiendo+ideas+en+c%C3%B3digo+elegante;Personalizaci%C3%B3n+%7C+Est%C3%A9tica+%7C+Libertad" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,14 +14,26 @@
 
 ## 🧑‍💻 Sobre mí
 
-> "*El código es arte, la personalización es libertad.*" — KDE/Mac Inspired Philosophy
+> "*El código es arte, la personalización es libertad.*" — KDE & Mac Inspired Philosophy
 
-Soy **Brandon David**, estudiante de **Desarrollo de Aplicaciones Web (DAW)** en **CEI Sevilla**.  
-Vivo entre terminales y píxeles: desarrollo **Full Stack** con obsesión por la estética y la experiencia de usuario. Mi máquina actual es **Fedora 43 con KDE Plasma 6**, tuneada hasta el último píxel para conseguir esa mezcla perfecta entre potencia Linux y elegancia Mac.
+**Brandon David**, estudiante de **Desarrollo de Aplicaciones Web (DAW)** en **CEI Sevilla**.  
+Desarrollador Full Stack apasionado por crear experiencias digitales que combinan excelencia técnica con una estética impecable. Mi entorno de trabajo principal es **Fedora 43 con KDE Plasma 6**, configurado para maximizar productividad y belleza visual.
 
-- 🚀 **Pasión:** Convertir ideas en interfaces que se sienten vivas  
-- 🏫 **Formación:** DAW — CEI Sevilla  
-- 🐧 **Entorno diario:** Fedora 43 + KDE Plasma 6 (custom ricing level: experto)  
+- 🚀 **Especialización:** Desarrollo Full Stack con enfoque en UX/UI y rendimiento.  
+- 🏫 **Formación actual:** DAW — CEI Sevilla (2024-2026).  
+- 🐧 **Entorno:** Fedora 43 + KDE Plasma 6 (ricing avanzado).  
+
+---
+
+## 💡 Filosofía
+
+> **“Somos lo que hacemos repetidamente. La excelencia, por tanto, no es un acto, sino un hábito.”**  
+> — *Aristóteles*
+
+> **“Cada vez que escalo soy perseguido por un perro llamado ego.”**  
+> — *Friedrich Nietzsche*
+
+Estas dos ideas guían mi forma de trabajar: disciplina constante para alcanzar la excelencia técnica y conciencia del ego para seguir creciendo sin límites.
 
 ---
 
@@ -58,30 +70,21 @@ Vivo entre terminales y píxeles: desarrollo **Full Stack** con obsesión por la
 
 ---
 
-## 📊 Estado del Sistema (Modo Mac + Plasma)
+## 📊 Estado del Sistema
 
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brandon03-cell&show_icons=true&theme=radical&border_color=77216F&icon_color=77216F&title_color=77216F&hide_border=false" alt="Estadísticas" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brandon03-cell&show_icons=true&theme=radical&border_color=77216F&icon_color=77216F&title_color=77216F&hide_border=false" alt="Estadísticas GitHub" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon03-cell&layout=compact&theme=radical&border_color=77216F&icon_color=77216F&title_color=77216F&hide_border=false" alt="Lenguajes" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon03-cell&layout=compact&theme=radical&border_color=77216F&icon_color=77216F&title_color=77216F&hide_border=false" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=brandon03-cell&theme=radical&hide_border=true&border_radius=10" alt="Racha de contribuciones" />
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=brandon03-cell&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%2C%20Y" alt="Racha de contribuciones" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brandon03-cell&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trofeos" />
+  <img src="https://github-profile-trophy.vercel.app/?username=brandon03-cell&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trofeos de GitHub" />
 </p>
-
----
-
-## 🧩 Curiosidades del Kernel
-
-- Mi escritorio KDE tiene **más widgets que pestañas abiertas** en un día normal.  
-- Uso Fedora porque me gusta que mi sistema sea tan estable como mi café y tan bonito como una terminal bien riced.  
-- Creo que cada píxel cuenta… y cada línea de código también.  
-- Si no personalizo algo, no es mío.  
 
 ---
 
@@ -100,9 +103,9 @@ Vivo entre terminales y píxeles: desarrollo **Full Stack** con obsesión por la
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&bgColor=77216F&height=110&section=footer&text=Turning%20coffee%20into%20code...%20and%20Linux%20into%20art&fontSize=38&fontColor=ffffff&animation=blinking" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&bgColor=77216F&height=110&section=footer&text=Turning%20coffee%20into%20code...%20and%20Linux%20into%20art&fontSize=38&fontColor=ffffff" alt="Footer Banner" />
 </p>
 
 <p align="center">
-  <i>Hecho con ❤️, plasma y un poco de caos creativo en Fedora 43</i>
+  <i>Hecho con disciplina, código limpio y KDE Plasma 6 en Fedora 43</i>
 </p>
