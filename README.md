@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:8A2BE2,C71585&height=200&section=header&text=Brandon%20David&fontSize=90&fontColor=ffffff&animation=fadeIn&bgColor=0d1117" alt="Brandon David Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&bgColor=77216F&height=180&section=header&text=Brandon%20David&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Brandon David Banner" />
 </p>
 
 <p align="center">
@@ -53,9 +53,9 @@ Soy un apasionado estudiante de **Desarrollo de Aplicaciones Web (DAW)** en **CE
 ## 📊 Estado del Sistema (Alineación Estilo Mac)
 
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brandon03-cell&show_icons=true&theme=radical&border_color=C71585&icon_color=C71585&title_color=ffffff" alt="Estadísticas de Brandon" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brandon03-cell&show_icons=true&theme=radical&border_color=E95420&icon_color=E95420&title_color=E95420&hide_border=false" alt="Estadísticas de Brandon" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon03-cell&layout=compact&theme=radical&border_color=8A2BE2&icon_color=8A2BE2&title_color=ffffff" alt="Lenguajes de Brandon" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon03-cell&layout=compact&theme=radical&border_color=77216F&icon_color=77216F&title_color=77216F&hide_border=false" alt="Lenguajes de Brandon" />
 </p>
 
 ---
@@ -75,5 +75,5 @@ Soy un apasionado estudiante de **Desarrollo de Aplicaciones Web (DAW)** en **CE
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:8A2BE2,C71585&height=100&section=footer&text=Turning%20coffee%20into%20code...&fontSize=40&fontColor=ffffff&bgColor=0d1117" alt="Brandon David Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&bgColor=77216F&height=100&section=footer&text=Turning%20coffee%20into%20code...&fontSize=40&fontColor=ffffff" alt="Brandon David Footer Banner" />
 </p>
