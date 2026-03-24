@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:E95420,77216F&height=200&section=header&text=Brandon%20David&fontSize=90&fontColor=ffffff&animation=fadeIn" alt="Brandon David Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:E95420,77216F&height=200&section=header&text=Brandon%20David&fontSize=90&fontColor=ffffff&animation=fadeIn&bgColor=0d1117" alt="Brandon David Banner" />
 </p>
 
 <p align="center">
@@ -21,6 +21,7 @@ Soy un apasionado estudiante de **Desarrollo de Aplicaciones Web (DAW)** en **CE
 - 🚀 **Pasión:** Desarrollo Full Stack.
 - 🏫 **Formación:** DAW en CEI (Sevilla).
 - 🐧 **Entorno:** Linux Fedora + KDE PLASMA.
+
 ---
 
 ## 🛠️ Mi Caja de Herramientas Tecnológicas
@@ -59,7 +60,7 @@ Soy un apasionado estudiante de **Desarrollo de Aplicaciones Web (DAW)** en **CE
 
 ---
 
-## 📫 Conexiones
+## 📫 Conexiones Profesionales
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brandon-david-c-47b719233" target="_blank">
@@ -74,5 +75,5 @@ Soy un apasionado estudiante de **Desarrollo de Aplicaciones Web (DAW)** en **CE
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:E95420,77216F&height=100&section=footer&text=Turning%20coffee%20into%20code...&fontSize=40&fontColor=ffffff" alt="Brandon David Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:E95420,77216F&height=100&section=footer&text=Turning%20coffee%20into%20code...&fontSize=40&fontColor=ffffff&bgColor=0d1117" alt="Brandon David Footer Banner" />
 </p>
