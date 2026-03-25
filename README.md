@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=77216F&bgColor=1E1E2E&height=240&section=header&text=Brandon%20David&fontSize=92&fontColor=ffffff&animation=wave" alt="Brandon David Banner" />
 </p>
 
-<p align="center" style="margin-top: -20px; margin-bottom: 25px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=f48e42&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%7C+DAW+%40+CEI+Sevilla+%7C+Linux+Artist" alt="Animated Subtitle" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f48e42&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+DAW+Student+%7C+CEI+Sevilla;Fedora+43+KDE+%7C+Linux+Rhythms;Turning+Ideas+into+Elegant+Code;Personalizaci%C3%B3n+%7C+Est%C3%A9tica+%7C+Libertad" alt="Typing SVG" />
 </p>
