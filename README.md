@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f48e42&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+DAW+Student+%7C+CEI+Sevilla;Fedora+43+KDE+%7C+Linux+%26+Cats+%F0%9F%90%BE;Turning+Ideas+into+Elegant+Code;Personalizaci%C3%B3n+%7C+Est%C3%A9tica+%7C+Libertad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f48e42&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+DAW+Student+%7C+CEI+Sevilla;Fedora+43+KDE+Plasma+%7C+Linux+Enthusiast;Building+Robust+and+Scalable+Applications;Technical+Excellence+%7C+Clean+Code+%7C+User+Experience" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,25 +24,23 @@
 
 ---
 
-## 🐾 Sobre mí
-> *"El código es arte, la personalización es libertad."*
+## Sobre mí
 
-Soy **Brandon David**, estudiante de **Desarrollo de Aplicaciones Web (DAW)** en **CEI Sevilla**, apasionado por construir interfaces elegantes y sistemas robustos. Busco la excelencia técnica con un ojo puesto siempre en la estética y la experiencia de usuario.
+Soy **Brandon David**, estudiante de **Desarrollo de Aplicaciones Web (DAW)** en **CEI Sevilla**. Me especializo en desarrollo full stack, con enfoque en la creación de aplicaciones web eficientes, seguras y escalables, priorizando siempre la calidad del código y una óptima experiencia de usuario.
 
-Mi entorno de trabajo es **Fedora 43 con KDE Plasma 6**, minuciosamente personalizado para alcanzar la armonía perfecta entre funcionalidad y diseño visual. Y entre sesión y sesión de código, siempre hay un gato supervisando el trabajo. 🐱
+Mi entorno de desarrollo principal es **Fedora 43 con KDE Plasma 6**, configurado y optimizado para maximizar la productividad y el rendimiento.
 
 | | |
 |---|---|
 | 🎓 **Formación** | DAW — CEI Sevilla |
 | 🐧 **Entorno** | Fedora 43 + KDE Plasma 6 |
-| 🚀 **Pasión** | Full Stack Development |
-| 🐾 **Filosofía** | Personalización · Estética · Libertad |
+| 🚀 **Especialidad** | Full Stack Development |
 | 📍 **Ubicación** | Sevilla, España |
 | 🟢 **Estado** | Disponible para colaboraciones |
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 ### Lenguajes Base
 ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -69,25 +67,25 @@ Mi entorno de trabajo es **Fedora 43 con KDE Plasma 6**, minuciosamente personal
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 ### 01 — Web App Full Stack
-Aplicación web completa con autenticación, CRUD y diseño responsivo. Backend en Spring Boot, frontend en React.  
+Aplicación web completa con sistema de autenticación, operaciones CRUD y diseño totalmente responsivo.  
 **Stack:** `React` `Spring Boot` `MySQL` `Docker`
 
 ### 02 — Dashboard Analítico
-Panel de control con visualización de datos en tiempo real. Diseñado con atención al detalle y experiencia de usuario.  
+Panel de control con visualización de datos en tiempo real y métricas clave.  
 **Stack:** `JavaScript` `CSS3` `SQLite`
 
 ### 03 — Script de Automatización
-Herramienta Python para automatizar tareas repetitivas del flujo de trabajo de desarrollo. Deployable con Docker.  
+Herramienta en Python para automatizar tareas repetitivas en flujos de desarrollo, containerizada con Docker.  
 **Stack:** `Python` `Docker` `Git`
 
-> 💡 Más proyectos en [github.com/brandon03-cell](https://github.com/brandon03-cell)
+> Más proyectos disponibles en [github.com/brandon03-cell](https://github.com/brandon03-cell)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brandon03-cell&show_icons=true&theme=radical&border_color=77216F&icon_color=77216F&title_color=77216F&count_private=true&hide_border=false" alt="Estadísticas GitHub" />
@@ -101,9 +99,9 @@ Herramienta Python para automatizar tareas repetitivas del flujo de trabajo de d
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-¿Tienes un proyecto interesante o quieres hablar de tecnología, Linux o gatos? No dudes en escribirme. 🐾
+Si tienes un proyecto interesante o quieres hablar sobre desarrollo web, Linux o tecnología, no dudes en contactarme.
 
 | Canal | Enlace |
 |---|---|
@@ -114,5 +112,5 @@ Herramienta Python para automatizar tareas repetitivas del flujo de trabajo de d
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=77216F&bgColor=77216F&height=80&section=footer&text=Turning+purrs+into+code...+%F0%9F%90%BE&fontSize=28&fontColor=ffffff" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=77216F&bgColor=77216F&height=80&section=footer&text=Building+robust+and+scalable+solutions&fontSize=28&fontColor=ffffff" alt="Footer Banner" />
 </p>
