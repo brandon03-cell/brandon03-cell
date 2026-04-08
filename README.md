@@ -67,24 +67,6 @@ Mi entorno de desarrollo principal es **Fedora 43 con KDE Plasma 6**, configurad
 
 ---
 
-## Proyectos Destacados
-
-### 01 — Web App Full Stack
-Aplicación web completa con sistema de autenticación, operaciones CRUD y diseño totalmente responsivo.  
-**Stack:** `React` `Spring Boot` `MySQL` `Docker`
-
-### 02 — Dashboard Analítico
-Panel de control con visualización de datos en tiempo real y métricas clave.  
-**Stack:** `JavaScript` `CSS3` `SQLite`
-
-### 03 — Script de Automatización
-Herramienta en Python para automatizar tareas repetitivas en flujos de desarrollo, containerizada con Docker.  
-**Stack:** `Python` `Docker` `Git`
-
-> Más proyectos disponibles en [github.com/brandon03-cell](https://github.com/brandon03-cell)
-
----
-
 ## GitHub Stats
 
 <p align="center">
