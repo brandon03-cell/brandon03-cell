@@ -79,7 +79,7 @@ developer = {
 > **320 Total Contributions** · Oct 9, 2025 – Present  
 > 🔥 Current Streak: Apr 13 · 🏅 Longest Streak: 5 days (Mar 23 – Mar 27)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brandon03-cell&bg_color=0D1117&color=F75C7E&line=F8D866&point=FFFFFF&hide_border=true&custom_title=My%27s+Contribution+Graph)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brandon03-cell&bg_color=0D1117&color=F75C7E&line=F8D866&point=FFFFFF&hide_border=true&custom_title=My+Contribution+Graph)
 
 </div>
 
