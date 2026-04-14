@@ -61,15 +61,12 @@ developer = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=brandon03-cell&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&text_color=C9D1D9" width="48%" alt="GitHub Stats"/>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandon03-cell&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F8D866&currStreakLabel=F75C7E" width="48%" alt="Streak Stats"/>
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon03-cell&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=C9D1D9&langs_count=8" width="50%" alt="Top Languages"/>
 
 </div>
 
