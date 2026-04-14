@@ -1,21 +1,12 @@
 <div align="center">
 
 ```
- ____                              __                     
-/\  _`\                           /\ \                    
-\ \ \L\ \  _ __    __      ___    \_\ \    ___     ___    
- \ \  _ <'/\`'__\/'__`\  /' _ `\  /'_` \  / __`\ /' _ `\ 
-  \ \ \L\ \ \ \//\ \L\._/\ \/\ \/\ \L\ \/\ \L\ \/\ \/\ \
-   \ \____/\ \_\\ \__/._\ \_\ \_\ \___,_\ \____/\ \_\ \_\
-    \/___/  \/_/ \/__/\/_/\/_/\/_/\/__,_ /\/___/  \/_/\/_/
-
- ____                               __     
-/\  _`\                      __    /\ \    
-\ \ \/\ \     __     __  __ /\_\   \_\ \   
- \ \ \ \ \  /'__`\  /\ \/\ \\/\ \  /'_` \ 
-  \ \ \_\ \/\ \L\._\ \ \_/ |\ \ \/\ \L\ \
-   \ \____/\ \__/._\ \___/  \ \_\ \___,_\
-    \/___/  \/__/\/_/ \/__/   \/_/\/__,_ /
+██████╗ ██████╗  █████╗ ███╗   ██╗██████╗  ██████╗ ███╗   ██╗
+██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔═══██╗████╗  ██║
+██████╔╝██████╔╝███████║██╔██╗ ██║██║  ██║██║   ██║██╔██╗ ██║
+██╔══██╗██╔══██╗██╔══██║██║╚██╗██║██║  ██║██║   ██║██║╚██╗██║
+██████╔╝██║  ██║██║  ██║██║ ╚████║██████╔╝╚██████╔╝██║ ╚████║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝ ╚═╝  ╚═══╝
 ```
 
 ### `< Full Stack Developer in Progress />`
@@ -70,15 +61,12 @@ developer = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=brandon03-cell&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&text_color=C9D1D9" width="48%" alt="GitHub Stats"/>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandon03-cell&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F8D866&currStreakLabel=F75C7E" width="48%" alt="Streak Stats"/>
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon03-cell&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=C9D1D9&langs_count=8" width="50%" alt="Top Languages"/>
 
 </div>
 
@@ -91,7 +79,7 @@ developer = {
 > **320 Total Contributions** · Oct 9, 2025 – Present  
 > 🔥 Current Streak: Apr 13 · 🏅 Longest Streak: 5 days (Mar 23 – Mar 27)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brandon03-cell&bg_color=0D1117&color=F75C7E&line=F8D866&point=FFFFFF&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brandon03-cell&bg_color=0D1117&color=F75C7E&line=F8D866&point=FFFFFF&hide_border=true&custom_title=My+Contribution+Graph)
 
 </div>
 
