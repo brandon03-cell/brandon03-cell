@@ -1,21 +1,6 @@
 <div align="center">
 
-```
-     .:::::::::::..`                                                                ::::`
-     -sssssssssssss/+.                                                             `/sss.
-     -sss/-:::::-osss/.                                                            `osss.
-     -ssso        osss-   `---:`:+++:   `:-++++--.     .---` .-+++-.        .-+++-.`osss.      .:-+++-:`      .---` .-+++-.
-     -sss/.......+sss+`   `/sss/ssss+ `+ssss//sssso`   -ssso/s//ssss/.    :/ssss/ss//sss.    -/ssssssssso:    -ssso/s//sssso.
-     -sssssssssssss/-     `/sss/:..:  :ooo:    +sss-   :ssss+`  `osss+   :sss/:`  .ossss.  `ossso.```:/sss-   -ssss-`  `osss+
-     -sss/++++++oosss/:   `/sss:         ``.:-+/sss+   :ssso     :ssso  `/sss:     `/sss.  -ssso      ./sss.  -ssso     :ssso
-     -ssso        :ssss:  `/sss.      `-o/sss/o/sss-   :sss+     :ssso  `/sss.      osss.  +sss-       osss:  -sss+     :ssso
-     -ssso        ./sss-  `/sss.     `/sss:`   -sss-   :sss+     :ssso   osss-     .ssss.  -ssso`     :sss/`  -sss+     :ssso
-     -sss/+++++++osssso`  `/sss.     `ssss:```-ssss+   :sss+     :ssso   ./sss+.`.-sssss.   +sss/-:.:+sss/:   -sss+     :ssso
-     -sssssssssssss/o:    `/sss.      :ossssss/+/ss/`  -sss+     :ssso    `+/ssssss-osss.    .+/sssssss/-`    -sss+     :ssso
-     `..........````       ....         .::::.  `...`  `...`     `...`      `.:::.  `...       `..:::.`       `...`     `...`
-```
-
-### `< Full Stack Developer in Progress />`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:F75C7E&height=200&section=header&text=Brandon%20David&fontSize=55&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=%3C%20Full%20Stack%20Developer%20in%20Progress%20%2F%3E&descAlignY=55&descSize=18&descColor=F8D866" width="100%"/>
 
 *Building things that work. Learning things that matter.*
 
