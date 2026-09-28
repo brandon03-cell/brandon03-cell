@@ -1,12 +1,18 @@
 <div align="center">
 
 ```
-██████╗ ██████╗  █████╗ ███╗   ██╗██████╗  ██████╗ ███╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔═══██╗████╗  ██║
-██████╔╝██████╔╝███████║██╔██╗ ██║██║  ██║██║   ██║██╔██╗ ██║
-██╔══██╗██╔══██╗██╔══██║██║╚██╗██║██║  ██║██║   ██║██║╚██╗██║
-██████╔╝██║  ██║██║  ██║██║ ╚████║██████╔╝╚██████╔╝██║ ╚████║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝ ╚═╝  ╚═══╝
+     .:::::::::::..`                                                                ::::`
+     -sssssssssssss/+.                                                             `/sss.
+     -sss/-:::::-osss/.                                                            `osss.
+     -ssso        osss-   `---:`:+++:   `:-++++--.     .---` .-+++-.        .-+++-.`osss.      .:-+++-:`      .---` .-+++-.
+     -sss/.......+sss+`   `/sss/ssss+ `+ssss//sssso`   -ssso/s//ssss/.    :/ssss/ss//sss.    -/ssssssssso:    -ssso/s//sssso.
+     -sssssssssssss/-     `/sss/:..:  :ooo:    +sss-   :ssss+`  `osss+   :sss/:`  .ossss.  `ossso.```:/sss-   -ssss-`  `osss+
+     -sss/++++++oosss/:   `/sss:         ``.:-+/sss+   :ssso     :ssso  `/sss:     `/sss.  -ssso      ./sss.  -ssso     :ssso
+     -ssso        :ssss:  `/sss.      `-o/sss/o/sss-   :sss+     :ssso  `/sss.      osss.  +sss-       osss:  -sss+     :ssso
+     -ssso        ./sss-  `/sss.     `/sss:`   -sss-   :sss+     :ssso   osss-     .ssss.  -ssso`     :sss/`  -sss+     :ssso
+     -sss/+++++++osssso`  `/sss.     `ssss:```-ssss+   :sss+     :ssso   ./sss+.`.-sssss.   +sss/-:.:+sss/:   -sss+     :ssso
+     -sssssssssssss/o:    `/sss.      :ossssss/+/ss/`  -sss+     :ssso    `+/ssssss-osss.    .+/sssssss/-`    -sss+     :ssso
+     `..........````       ....         .::::.  `...`  `...`     `...`      `.:::.  `...       `..:::.`       `...`     `...`
 ```
 
 ### `< Full Stack Developer in Progress />`
