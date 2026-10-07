@@ -1,6 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:F75C7E&height=200&section=header&text=Brandon%20David&fontSize=55&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=%3C%20Full%20Stack%20Developer%20in%20Progress%20%2F%3E&descAlignY=55&descSize=18&descColor=F8D866" width="100%"/>
+```
+     //////////:.                                                      .ssss.
+     sssso++osssso.                                                    .ssss.
+     ssss-   -ssss-  .::::`-//- `-://///:.    .::::`-:///:.     `-////:-ssss.    .-://///:.    `::::..:///:.
+     ssss+/++sso/.   -ssssssos: -o++//+ssso.  -ssssoo+ossss:  `/ssss++osssss.  .+ssso++ossso-  .ssssoo+ossss/
+     sssso+++osss+-  -ssss:`    `.-:://osss/  -ssss.   /sss+  /sss+`   -ssss. .osss:    -ssss. .ssss-   -ssss
+     ssss-    /ssss. -ssso`    .osso/::+sss/  -ssso`   :sss+``+sss:    .ssss. .ssss.    .ssss- .ssss.   -ssss
+     ssss/:::/ssss+` -ssso`    /sss/..:osss/  -ssso`   :sss+` :ssss/--:ossss. `/ssso:--:osss/` .ssss.   -ssss
+     ossssssooo+/.   -oss+`    `/ossso//oso/  .oss+`   :oss+   ./ossss+:osso.   ./osssssso/.   .osso.   .osso
+
+                      //////////:-.                                  `+sss:           .ssss
+                      ssssoooossssso/.                                -++/.           .ssss
+                      ssss-    .:ossso.  `-://///:.   -:::-    `::::. -:::.    .:////:-ssss
+                      ssss-      .osss/  :o++//+ssso. -ssss-   /sss/``+sss:  .+ssss++osssss
+                      ssss-      `osss/  `.-:://osss:  -ssso` -sss+` `+sss: `+sss/`   -ssss
+                      ssss-     .+ssso. -osso/::+sss/   :sss/.oss+`  `+sss: `osss:    .ssss
+                      ssss+///+ossss/.  /sss/..:osss/    :sssoss+`   `+sss:  /ssss/--:ossss
+                      ossssssooo+/-`    ./ossso//oso:     /osss+`     +sso:   -+ossss+/osso
+```
+
+### `< Full Stack Developer in Progress />`
 
 *Building things that work. Learning things that matter.*
 
