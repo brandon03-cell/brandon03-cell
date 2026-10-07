@@ -1,23 +1,14 @@
 <div align="center">
 
 ```
-     //////////:.                                                      .ssss.
-     sssso++osssso.                                                    .ssss.
-     ssss-   -ssss-  .::::`-//- `-://///:.    .::::`-:///:.     `-////:-ssss.    .-://///:.    `::::..:///:.
-     ssss+/++sso/.   -ssssssos: -o++//+ssso.  -ssssoo+ossss:  `/ssss++osssss.  .+ssso++ossso-  .ssssoo+ossss/
-     sssso+++osss+-  -ssss:`    `.-:://osss/  -ssss.   /sss+  /sss+`   -ssss. .osss:    -ssss. .ssss-   -ssss
-     ssss-    /ssss. -ssso`    .osso/::+sss/  -ssso`   :sss+``+sss:    .ssss. .ssss.    .ssss- .ssss.   -ssss
-     ssss/:::/ssss+` -ssso`    /sss/..:osss/  -ssso`   :sss+` :ssss/--:ossss. `/ssso:--:osss/` .ssss.   -ssss
-     ossssssooo+/.   -oss+`    `/ossso//oso/  .oss+`   :oss+   ./ossss+:osso.   ./osssssso/.   .osso.   .osso
-
-                      //////////:-.                                  `+sss:           .ssss
-                      ssssoooossssso/.                                -++/.           .ssss
-                      ssss-    .:ossso.  `-://///:.   -:::-    `::::. -:::.    .:////:-ssss
-                      ssss-      .osss/  :o++//+ssso. -ssss-   /sss/``+sss:  .+ssss++osssss
-                      ssss-      `osss/  `.-:://osss:  -ssso` -sss+` `+sss: `+sss/`   -ssss
-                      ssss-     .+ssso. -osso/::+sss/   :sss/.oss+`  `+sss: `osss:    .ssss
-                      ssss+///+ossss/.  /sss/..:osss/    :sssoss+`   `+sss:  /ssss/--:ossss
-                      ossssssooo+/-`    ./ossso//oso:     /osss+`     +sso:   -+ossss+/osso
+//////////:.                                                      .ssss.                                
+sssso++osssso.                                                    .ssss.                                
+ssss-   -ssss-  .::::`-//- `-://///:.    .::::`-:///:.     `-////:-ssss.    .-://///:.    `::::..:///:. 
+ssss+/++sso/.   -ssssssos: -o++//+ssso.  -ssssoo+ossss:  `/ssss++osssss.  .+ssso++ossso-  .ssssoo+ossss/
+sssso+++osss+-  -ssss:`    `.-:://osss/  -ssss.   /sss+  /sss+`   -ssss. .osss:    -ssss. .ssss-   -ssss
+ssss-    /ssss. -ssso`    .osso/::+sss/  -ssso`   :sss+``+sss:    .ssss. .ssss.    .ssss- .ssss.   -ssss
+ssss/:::/ssss+` -ssso`    /sss/..:osss/  -ssso`   :sss+` :ssss/--:ossss. `/ssso:--:osss/` .ssss.   -ssss
+ossssssooo+/.   -oss+`    `/ossso//oso/  .oss+`   :oss+   ./ossss+:osso.   ./osssssso/.   .osso.   .osso
 ```
 
 ### `< Full Stack Developer in Progress />`
